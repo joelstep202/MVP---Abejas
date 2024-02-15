@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu_principal.unity
+    guid: 21b2177800e701047bb9a320e8920798
+  - enabled: 1
+    path: Assets/Scenes/Obrera.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Pausa.unity
+    guid: c0e614f42ecd39f478e8cc57dda30df0
+  - enabled: 1
+    path: Assets/Scenes/Pantalla_Carga.unity
+    guid: 5de9001af2a9c3a45bd114b9ac9af23d
+  - enabled: 1
+    path: Assets/Scenes/Elecciones.unity
+    guid: fb922e60db91c3149ace23f2ef5b78d9
+  - enabled: 1
+    path: Assets/Scenes/Reina.unity
+    guid: 4dafe587d40aa094c991aa898cbc4cb8
+  - enabled: 1
+    path: Assets/Scenes/Zangano.unity
+    guid: d2f0d1b455188964b9eb7f29aa74f982
+  - enabled: 1
+    path: Assets/Scenes/ReinaCinematica.unity
+    guid: c86aa7a14a9571a4b8a5c9f671ea8e2d
+  - enabled: 1
+    path: Assets/Scenes/ZanganoCinematic.unity
+    guid: 8cdd24d739bc7074385074cf9cf8ff29
+  - enabled: 1
+    path: Assets/Scenes/ObreraCinematic.unity
+    guid: 4b5989041064f4e43a76f9b99dc111ce
+  - enabled: 1
+    path: Assets/Scenes/Apocalictic.unity
+    guid: f6500c1091c7cf440affa565973bbfaf
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 9f82f96b751f46245ae8cb6398ad1f32
+  - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 7af5728b7006dbe4c8e2acc0fab55123
+  - enabled: 1
+    path: Assets/Scenes/Creditos_pas.unity
+    guid: 2c27fff20ff613240bceca3339f90265
+  m_configObjects: {}
